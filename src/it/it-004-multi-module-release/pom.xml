@@ -64,7 +64,7 @@
         </configuration>
         <dependencies>
           <dependency>
-            <groupId>com.github.stephenc.maven.rfmm.its</groupId>
+            <groupId>io.github.stephenc.maven.rfmm.its</groupId>
             <artifactId>maven-scm-provider-dummy</artifactId>
             <version>1.0</version>
           </dependency>

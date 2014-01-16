@@ -32,7 +32,7 @@ How to use
 Add the following to your `pom.xml`
 
       <plugin>
-        <groupId>com.github.stephenc.maven</groupId>
+        <groupId>io.github.stephenc.maven</groupId>
         <artifactId>rfmm-maven-plugin</artifactId>
         <version><!-- the latest version goes here --></version>
         <executions>
